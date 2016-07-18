@@ -31,8 +31,21 @@ You can use Markdown most places around GitHub:
 	- [Headers](#headers)
 	- [Emphasis](#emphasis)
 	- [Lists](#lists)
+	- [Images](#images)
+	- [Links](#links)
+	- [Blockquotes](#blockquotes)
+	- [Inline Code](#inline-code)
+	- [GitHub Flavored Markdown](#github-flavored-markdown)
+	- [Syntax Highlighting](#syntax-highlighting)
+	- [Task Lists](#task-lists)
+	- [Tables](#tables)
+	- [SHA References](#sha-references)
+	- [Issue references within a repository](#issue-references-within-a-repository)
+	- [Automatic linking for URLs](#automatic-linking-for-urls)
+	- [Strikethrough](#strikethrough)
+	- [Emoji](#emoji)
 	
-##Syntax guide
+##Syntax Guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
 ###Headers
@@ -85,7 +98,7 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 > We're living the future so
 > the present is our past.
 
-###Inline code
+###Inline Code
 
 >I think you should use an
 >`<addr>` element here instead.
@@ -96,7 +109,7 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 
 Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
 
-###Syntax highlighting
+###Syntax Highlighting
 
 Here’s an example of how you can use syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/):
 
@@ -151,7 +164,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-###SHA references
+###SHA References
 
 Any reference to a commit’s [SHA-1 hash](https://en.wikipedia.org/wiki/SHA-1) will be automatically converted into a link to that commit on GitHub.
 
@@ -170,7 +183,7 @@ Any number that refers to an Issue or Pull Request will be automatically convert
 
 Typing an `@` symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
 
-Automatic linking for URLs
+###Automatic linking for URLs
 
 Any URL (like `http://www.github.com/`) will be automatically converted into a clickable link.
 
