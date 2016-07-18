@@ -24,6 +24,14 @@ You can use Markdown most places around GitHub:
 	* It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 	* It's very easy to make some words bold and other words italic with Markdown. You can even link to Google!
 
+
+## Content
+
+- [Syntax Guide](#syntax-guide)
+	- [Headers](#headers)
+	- [Emphasis](#emphasis)
+	- [Lists](#lists)
+	
 ##Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
