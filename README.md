@@ -34,6 +34,8 @@ You can use Markdown most places around GitHub:
 	- [Images](#images)
 	- [Links](#links)
 	- [Blockquotes](#blockquotes)
+		-	[How to Implement blockquotes](#how-to-implement-blockquotes)
+		-	[Blockquotes displayed](#blockquotes-displayed)
 	- [Inline Code](#inline-code)
 	- [GitHub Flavored Markdown](#github-flavored-markdown)
 	- [Syntax Highlighting](#syntax-highlighting)
@@ -103,7 +105,7 @@ http://github.com - automatic!
 
 ###Blockquotes
 
-How to Implement blockquotes :
+#### How to Implement blockquotes :
 
 ```
 >As Kanye West said:
@@ -112,7 +114,7 @@ How to Implement blockquotes :
 > the present is our past.
 ```
 
-Blockquotes displayed :
+#### Blockquotes displayed :
 
 >As Kanye West said:
 
