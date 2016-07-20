@@ -34,8 +34,6 @@ You can use Markdown most places around GitHub:
 	- [Images](#images)
 	- [Links](#links)
 	- [Blockquotes](#blockquotes)
-		-	[How to Implement blockquotes](#how-to-implement-blockquotes)
-		-	[Blockquotes displayed](#blockquotes-displayed)
 	- [Inline Code](#inline-code)
 	- [GitHub Flavored Markdown](#github-flavored-markdown)
 	- [Syntax Highlighting](#syntax-highlighting)
@@ -52,11 +50,20 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 
 ###Headers
 
+#### How to implement headers in README.md :
+
 ```html 
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
 ```
+
+#### Headers preview : 
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+	
 ###Emphasis
 
 ```
