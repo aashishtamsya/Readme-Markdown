@@ -57,13 +57,15 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 ```
 ###Emphasis
 
->*This text will be italic*
->_This will also be italic_
+```
+*This text will be italic*
+_This will also be italic_
 
->**This text will be bold**
->__This will also be bold__
+**This text will be bold**
+__This will also be bold__
 
->_You **can** combine them_
+_You **can** combine them_
+```
 
 ###Lists
 
