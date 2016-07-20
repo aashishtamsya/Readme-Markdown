@@ -84,20 +84,35 @@ _You **can** combine them_
 1. Item 1
 2. Item 2
 3. Item 3
-   * Item 3a
+  * Item 3a
   * Item 3b
 ```
 ###Images
 
->![GitHub Logo](/images/logo.png)
->Format: ![Alt Text](url)
+```
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+```
 
 ###Links
 
->http://github.com - automatic!
->[GitHub](http://github.com)
+```
+http://github.com - automatic!
+[GitHub](http://github.com)
+```
 
 ###Blockquotes
+
+How to Implement blockquotes :
+
+```
+>As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+```
+
+Blockquotes displayed :
 
 >As Kanye West said:
 
