@@ -50,10 +50,11 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 
 ###Headers
 
-># This is an <h1> tag
->## This is an <h2> tag
->###### This is an <h6> tag
-
+```
+html # This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+```
 ###Emphasis
 
 >*This text will be italic*
